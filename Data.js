@@ -1,0 +1,135 @@
+const data = {
+    products: [
+        {
+            name: 'Puma Sneaker',
+            slug: 'Puma-Sneaker',
+            category: 'Footwear',
+            image: '/images/puma-snaekers.jpg',
+            price: 79.95,
+            countInStock: 10,
+            brand: 'Puma',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'Great quality training sneakers',         
+        },
+
+        {
+            name: 'Polo Shirt',
+            slug: 'Polo-Shirt',
+            category: 'Shirt',
+            image: '/images/polo-shirt.jpg',
+            price: 49.95,
+            countInStock: 10,
+            brand: 'Polo',
+            rating: 4.7,
+            numReviews: 10,
+            description: 'Great quality Shirt',         
+        },
+
+        {
+            name: 'Beats Headphone',
+            slug: 'Beats-Headphone',
+            category: 'Electronics',
+            image: '/images/beats-headphones.jpg',
+            price: 299.95,
+            countInStock: 10,
+            brand: 'Beats',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'Noise Cancelling Over-ear Headphone',         
+        },
+
+        {
+            name: 'Apple MacBook Pro',
+            slug: 'Apple-MacBook-Pro',
+            category: 'Electronics',
+            image: '/images/macbook.jpeg',
+            price: 999.95,
+            countInStock: 10,
+            brand: 'Apple',
+            rating: 4.8,
+            numReviews: 10,
+            description: '2020 Apple MacBook Pro with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage',         
+        },
+
+        {
+            name: 'Ninja Blender',
+            slug: 'Ninja-Blender',
+            category: 'HomeGoods',
+            image: '/images/Ninjablender.jpg',
+            price: 99.95,
+            countInStock: 10,
+            brand: 'Ninja',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'Ninja Professional Blender 1000watts',         
+        },
+
+        {
+            name: 'Samsung TV',
+            slug: 'Samsung-TV',
+            category: 'Electronics',
+            image: '/images/samsung-tv.jpg',
+            price: 799.95,
+            countInStock: 10,
+            brand: 'Samsung',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'Samsung 75 inch Smart TV',         
+        },
+
+        {
+            name: 'Levis Jeans',
+            slug: 'levis-Jeans',
+            category: 'Pants',
+            image: '/images/levis-jeans.jpg',
+            price: 69.95,
+            countInStock: 10,
+            brand: 'Levis',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'Great quality Jeans',         
+        },
+
+        {
+            name: 'Nike Sneaker',
+            slug: 'Nike-Sneaker',
+            category: 'Footwear',
+            image: '/images/nike.jpg',
+            price: 89.95,
+            countInStock: 15,
+            brand: 'Nike',
+            rating: 4.8,
+            numReviews: 23,
+            description: 'Great quality running shoes',         
+        },
+
+        {
+            name: 'PS5',
+            slug: 'PS5',
+            category: 'Electronics',
+            image: '/images/ps5.jpg',
+            price: 499.95,
+            countInStock: 10,
+            brand: 'Sony',
+            rating: 4.9,
+            numReviews: 10,
+            description: 'PS5 Console',         
+        },
+
+        {
+            name: 'Under Armour pants',
+            slug: 'Under-Armour-pants',
+            category: 'Pants',
+            image: '/images/under-armour-pants.jpg',
+            price: 29.95,
+            countInStock: 25,
+            brand: 'Under Armour',
+            rating: 4.8,
+            numReviews: 10,
+            description: 'Under Armour Woven Vital Workout Pants',         
+        }
+        
+    ]
+}
+export default data;
